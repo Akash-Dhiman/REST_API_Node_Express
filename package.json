@@ -1,0 +1,27 @@
+{
+  "name": "rest_api_node_express",
+  "version": "1.0.0",
+  "description": "Rest APIs\\",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akash-Dhiman/Backend_rest_api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Akash Dhiman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akash-Dhiman/Backend_rest_api/issues"
+  },
+  "homepage": "https://github.com/Akash-Dhiman/Backend_rest_api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
